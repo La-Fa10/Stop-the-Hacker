@@ -11,9 +11,13 @@ An interactive cybersecurity awareness game designed to teach users how to prote
 
 ## Team Members
 **Aram Albarqi**
+
 **Aseel Alghamdi**
+
 **Layan Alswaat**
+
 **Reham Wan derman**
+
 **Sara Almalki**
 
 ## Project Type
